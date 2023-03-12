@@ -1,0 +1,41 @@
+/*para pegarmos uma img de outra pasta precisamos utilizar o ..nomedapasta/nomedaimagem.png*/
+
+body{
+    background-image: url('../img/fundo.png'); 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.principal{
+    width: 900px;
+}
+
+#navegacao{
+    background-color:#aaaa9d;
+    padding: 18px;
+    font-size: 20px;
+    text-decoration: none;
+    
+}
+
+h3{
+    color: grey;
+}
+
+#conteudo{
+    background-color: beige;
+    padding: 10px;
+}
+
+.imagem{
+    border: 10px solid;
+    border-color:black;
+}
+
+#rodape{
+    padding: 20px;
+    text-align: center;
+}
+
+span{
+    font-weight: 1000;
+}
